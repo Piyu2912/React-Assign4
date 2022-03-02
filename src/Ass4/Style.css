@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: linear-gradient(lightblue, lightpink, white);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.navbar {
+    background-color: #21325e;
+    color: #fff;
+    display: flex;
+    font-family: Dancing Script,cursive;
+    font-size: 30px;
+    justify-content: space-around;
+    margin-bottom: 0;
+    padding: 10px 0;
+    text-align: center;
+    width: 100%;
+}
+.head {
+    color: #fff;
+    text-decoration: none;
+}
+.head:hover {
+    color: aquamarine;
+}
+.descrip {
+    font-family: Dancing Script,cursive;
+    font-size: 46px;
+    margin-top: 25px;
+}
+.left-disp {
+    position: relative;
+    top: 50px;
+    left: 0px;
+}
+.descrip-para {
+    margin-top: 15px;
+    font-size: 26px;
+}
+.table {
+    position: relative;
+    top: 100px;
+    left: 11.5%;
+    width: 81%;
+}
+.head-row {
+    font-weight: bold;
+}
