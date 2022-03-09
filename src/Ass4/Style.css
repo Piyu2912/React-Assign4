@@ -89,7 +89,7 @@ body {
     background-color: lightgray;
     text-align: center;
     border: 2px solid black;
-    border-radius: 20px 20px;
+    border-radius: 20px;
     cursor: pointer;
     text-decoration: none;
     margin-right: 10px;
@@ -104,7 +104,7 @@ body {
     background-color: cyan;
     text-align: center;
     border: 2px solid black;
-    border-radius: 20px 20px;
+    border-radius: 20px;
     cursor: pointer;
     text-decoration: none;
     margin-left: 110px;
